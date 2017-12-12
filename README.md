@@ -1,6 +1,6 @@
 # hopfield-network
 Exercice : L'Algorithme du réseau d'Hopfield est un entrainement non supervisé pour la
-reconnaissance de motifs (patterns). Dans notre cas, nos pattterns sont des suites de 0 et 1.
+reconnaissance de motifs (patterns). Dans notre cas, nos patterns sont des suites de 0 et 1.
 C'est un exercice intéressant pour débuter avec les réseaux neuronaux, car on met en
 pratique les notions d'apprentissage/entrainement, puis on on tente d'identifier ces patterns. 
 Note : l'inverses des patterns appris sont reconnus (c'est un défaut de cette méthode). 
